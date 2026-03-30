@@ -1,16 +1,16 @@
 # larrymacropad
 This is my macropad for Blueprint v4. It has 4 keys and is engineered for optimal satisfaction and portability.
-![image](https://github.com/niir-x/larrymacropad/blob/main/HackpadScreenshot.jpg)
+![image](https://github.com/niir-x/larrymacropad/blob/main/Images/HackpadScreenshot.jpg)
 
 ## PCB
 Here is a photo of my schematic and PCB
-![image](https://github.com/niir-x/larrymacropad/blob/main/SchematicScreenshot.jpg)
-![image]([https://github.com/user-attachments/assets/PCBScreenshot.jpg](https://github.com/niir-x/larrymacropad/blob/main/PCBScreenshot.jpg))
+![image](https://github.com/niir-x/larrymacropad/blob/main/Images/SchematicScreenshot.jpg)
+![image](https://github.com/niir-x/larrymacropad/blob/2593233e4ec91c0c9d1eb8a6d925edf272ea7814/Images/PCBScreenshot.jpg)
 
 ## CAD
 Here are photos of my case disassembled and assembled
-![image](https://github.com/niir-x/larrymacropad/blob/main/CaseScreenshot.jpg)
-![image](https://github.com/niir-x/larrymacropad/blob/main/AttachedCaseScreenshot.jpg)
+![image](https://github.com/niir-x/larrymacropad/blob/main/Images/CaseScreenshot.jpg)
+![image](https://github.com/niir-x/larrymacropad/blob/main/Images/AttachedCaseScreenshot.jpg)
 This was my first time using Fusion 360, and it was pretty difficult because I attempted to learn it by myself and it took way longer than expected.
 
 ## Firmware
